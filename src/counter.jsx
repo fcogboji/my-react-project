@@ -23,7 +23,7 @@ function Counter() {
   //}, []); 
 
     function Decrease(){
-        setCount(c => c - 1);
+        setCount(c => c - 2);
     }
     function Reset(){
         setCount(0);
